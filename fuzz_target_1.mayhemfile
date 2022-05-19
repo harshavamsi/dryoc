@@ -1,0 +1,5 @@
+project: dryoc
+target: fuzz_target_1
+
+cmds:
+  - cmd: /fuzz_target_1
