@@ -1,5 +1,5 @@
 project: dryoc
-target: fuzz_target_1
+target: hash_with_defaults_to_vec
 
 cmds:
   - cmd: /fuzz_target_1
